@@ -1,4 +1,4 @@
-This is an example showing how to create a custom input time to pick up a date.
+This is an example showing how to create a custom input field to pick up a date.
 It is styled for bootstrap and it uses [rajit:bootstrap3-datepicker](https://atmospherejs.com/rajit/bootstrap3-datepicker).
 
 Custom template:
