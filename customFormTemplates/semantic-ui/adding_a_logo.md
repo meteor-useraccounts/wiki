@@ -1,4 +1,5 @@
-In case you wish to add a logo above the atForm, this is all you have to do:
+This is an example showing how to add a logo above the atForm. It is styled for semantic-ui
+This is all you have to do:
 
 1) define a template to include both the logo and the atForm
 
