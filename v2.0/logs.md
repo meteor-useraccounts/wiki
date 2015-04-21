@@ -13,8 +13,8 @@ Pince provides different log levels which are used for different purposes:
 1. *error*: TBD
 2. *warn*: TBD
 3. *info*: TBD
-4. *debug*: TBD 
-5. *trace*: track files load order among different packages/modules
+4. *debug*: TBD
+5. *trace*: track files loads plus additions and operations on the base class among different packages/modules.
 
 
 ## Available Loggers
